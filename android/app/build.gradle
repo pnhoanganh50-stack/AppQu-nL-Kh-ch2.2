@@ -8,7 +8,7 @@ plugins {
 android {
     namespace = "vn.quanlykhach.quan_ly_khach"
     compileSdk = 35
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "25.1.8937393"
 
     compileOptions {
         // Bắt buộc cho thư viện thông báo (flutter_local_notifications)
