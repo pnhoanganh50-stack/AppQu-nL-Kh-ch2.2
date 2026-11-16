@@ -1,7 +1,7 @@
 // Phiên bản Kotlin dùng chung. PHẢI trùng với version của
 // plugin "org.jetbrains.kotlin.android" trong android/settings.gradle.
 // Một số plugin Flutter cũ đọc biến này.
-ext.kotlin_version = '2.1.0'
+ext.kotlin_version = '2.2.0'
 
 allprojects {
     repositories {
